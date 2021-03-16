@@ -1,0 +1,2 @@
+# magisk
+magisk pubg mobile
